@@ -1,0 +1,26 @@
+{
+  "name": "shayari-generator-using-chatgpt",
+  "version": "1.0.0",
+  "description": "Creating an Interactive Content Generation Web Application using ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirti180/shayari-generator-using-chatgpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirti180/shayari-generator-using-chatgpt/issues"
+  },
+  "homepage": "https://github.com/Kirti180/shayari-generator-using-chatgpt#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
